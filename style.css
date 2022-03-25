@@ -1,0 +1,57 @@
+
+body {
+    margin: 0;
+    background: url(img/22.jpg) no-repeat 0px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: bisque;
+    background-color: darkblue;
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.nombre{
+    size-adjust: 20%;
+}
+.nombre {
+    width: 900px;
+    margin: 0 auto; 
+    background: url(img/pocketdesk1.jpg) no-repeat 0px;
+    background-size: 800px;
+    background-position: center;
+    border-top: 6px blueviolet solid;
+    padding: 300px 300px 300px 300px;
+    padding-top: 150px;
+    color:azure;
+    line-height: 1px;
+}
+
+#datos {
+    position: relative;
+    left: 180px;
+    font-weight:lighter;
+    top: 45px;
+}
+
+img {position:absolute;
+    left: 814px;
+    top: 260px;
+    width: 80px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+#elem { 
+    size-adjust: 20%;
+    background-color:rgb(15, 7, 63);
+    font-size: 13px;
+    color:rgb(59, 158, 39);
+    font-style: oblique;
+    position: relative;
+    width: 12%;
+    bottom: 365px;
+    left: 897px;
+}
